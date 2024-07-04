@@ -11,6 +11,10 @@ the downward-facing bombs and forward-facing shots. In addition, button 2 now ac
 button. However, in its current stage, it will not act as an unpause button, and instead the 
 pause button on the console must be pressed in order to resume play. 
 
+If you're curious about how I made this hack, check out this video I made:
+
+[![Sagaia on Sega Master System and how I updated its controls | Bofner](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=z2093vlF9-w)
+
 ## How to install
 Use the program FLIPS to install this patch. Simply follow the on-screen prompts in FLIPS and you should have no problems.
 
