@@ -13,7 +13,7 @@ pause button on the console must be pressed in order to resume play.
 
 If you're curious about how I made this hack, check out this video I made:
 
-[![Sagaia on Sega Master System and how I updated its controls | Bofner](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=z2093vlF9-w)
+[![Sagaia on Sega Master System and how I updated its controls | Bofner](https://img.youtube.com/vi/z2093vlF9-w/0.jpg)](https://www.youtube.com/watch?v=z2093vlF9-w)
 
 ## How to install
 Use the program FLIPS to install this patch. Simply follow the on-screen prompts in FLIPS and you should have no problems.
